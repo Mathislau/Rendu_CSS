@@ -1,1 +1,28 @@
-h1{color: blueviolet;}
+.box{
+    flex-direction: row;
+    align-content: center;
+}
+
+
+
+
+
+.column {
+    float:left;
+    width:33.33%;
+    padding:5px;
+  }
+
+
+
+
+
+
+
+#h2{
+    size: 50px;
+}
+
+
+
+
